@@ -62,7 +62,6 @@ northstar-support-mvp/
 No login required. Works on mobile and desktop.
 
  Assignments Delivered
-
 | Assignment | Document |
 |---|---|
 | Assignment 1 — Charter + Board | `TEAM_CHARTER.md` + GitHub Project Board |
