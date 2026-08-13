@@ -3,26 +3,18 @@
 Team: Suzanne Wanjiru · Dennis Gitau · Dorcas Yego · Keith Ngugi · Timothy Kerre  
 Sprint Duration: 5 Days
 
----
-
 What We Built
 
 A conversational support chatbot for Northstar Retail Co. that automatically handles the 3 most repetitive customer support ticket types — reducing manual agent workload by an estimated 75%.
 
 Live Demo: [https://landbot.online/v3/H-3493256-DR2064DXKIJOLLJ6/index.html]
-
----
-
  The Problem
-
 Northstar's support team was drowning in repetitive tickets:
 - 45% — Order status queries ("Where is my order?")
 - 35% — Returns & refund queries ("How do I return this?")
 - 20% — Stock availability queries ("Is this back in stock?")
 
 These tickets required no specialist knowledge — just lookups and policy explanations. A bot could handle them.
-
----
 
  What the Bot Does
 
@@ -38,11 +30,7 @@ Additional features:
 - Restock notifications — customers opt-in to email alerts
 - Human takeover — damaged items and complex cases go straight to an agent
 
----
-
  Repository Structure
-
-```
 northstar-support-mvp/
 │
 ├── README.md                    ← This file
@@ -54,9 +42,6 @@ northstar-support-mvp/
 ├── mock-orders.json             ← 12 mock orders (shipped/processing/delayed/delivered)
 ├── mock-returns-policy.json     ← Return eligibility rules + 6 case examples
 └── mock-inventory.json          ← 10 SKUs with size/colour variants + stock counts
-```
-
----
 
  Sprint Results
 
@@ -68,9 +53,6 @@ northstar-support-mvp/
 | Known broken paths | 1 (product name search — non-blocking) |
 | CSAT baseline | 4.2 / 5 |
 | All board tasks completed | 18 / 18 ✅ |
-
----
-
  How to View the Bot
 
 1. Click the demo link above
@@ -78,8 +60,6 @@ northstar-support-mvp/
 3. Follow the conversation — the bot handles the rest
 
 No login required. Works on mobile and desktop.
-
----
 
  Assignments Delivered
 
