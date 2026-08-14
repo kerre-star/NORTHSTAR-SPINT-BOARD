@@ -1,0 +1,37 @@
+NORTHSTAR SPRINT
+Team Charter
+Client: Northstar Retail Co.
+Engagement: Support Deflection MVP — 1-week sprint
+Pod: 5 members
+Signed: Day 1, August 11, 2026
+1. The Pod
+NameRolePrimary ResponsibilitySuzanne WanjiruSprint Lead / ProcessCharter, board hygiene, audit log, go-live note, client-facing summaryDennis GitauData & LogicMock data models, decision-tree branching logic, tagging rulesDorcas YegoFrontend & DesignDecision-tree UI, visual system, accessibility, demo polishTimothy KerreQA & DocumentationPath testing, edge cases, FAQ content, go-live "known-broken" listKeith NgugiSupport Ops LiaisonTicket taxonomy accuracy, policy copy (returns/shipping windows), escalation rulesSignatures (Day 1): S. Wanjiru, D. Gitau, D. Yego, T. Kerre, K. Ngugi — all present at kickoff.
+2. Working Agreement
+Communication
+? Async-first in the #northstar-sprint channel; anything blocking gets flagged within 2 hours of discovery, not saved for standup.
+? One 15-minute daily sync, Days 2–5, 9:30am. Absence requires an async written update posted before the sync.
+? Decisions that affect more than one person's task are written down on the board, not just spoken.
+Deadlines
+? Every board task carries an owner, a priority (P0/P1/P2), and a single-sentence Definition of Done.
+? No task is allowed to represent more than 4 hours of work. If a task can't be described as one checkable sentence, it gets split (see Non-Negotiable Rules below).
+? Board status moves the same day work happens — no batching status updates to end of week.
+Commit / Edit Convention
+? Format: <type>: <what changed> - <why it matters>
+? Allowed types: feat, fix, data, docs, chore, test
+? "wip" and "updates" are banned commit messages and will be rejected in review.
+? Branch naming: <initials>/<task-id>-<short-desc> (e.g. dg/04-mock-order-data)
+Conflict Resolution
+? Disagreement on approach ? raised in channel within the day it's discovered, not left to fester.
+? If two people can't resolve a technical disagreement in 15 minutes of discussion, Suzanne (Sprint Lead) makes the call and documents the reasoning in the board task's comments.
+? Peer Reliability Index concerns are raised privately with Suzanne, never adjudicated in the group channel.
+3. Non-Negotiable Rules (client-mandated)
+? Anti-black-box rule: No board task may represent more than 4 hours of work. If it would, it is split until the Definition of Done is a single checkable sentence.
+? Commit convention is mandatory — see above. Enforced same-day by whoever reviews the day's commits.
+? Board status moves same-day as the work — it is the audit trail, not a summary written later.
+? Escalation path: Zero visible activity (no commits, no board movement) from any member for 2+ consecutive days triggers immediate escalation — Suzanne reaches out directly within the day the threshold is hit, not at the Day 4 checkpoint and not at the deadline. If unresolved same-day, it's logged in the Day 4 checkpoint regardless of when it happens.
+? Peer Reliability Index is confidential. Individual responses are never shared verbatim between teammates. Only aggregate patterns (e.g. "2 of 4 peers flagged responsiveness") may be surfaced, and only to the person concerned.
+4. Definition of Done (sprint-level)
+The MVP is ready to demo when:
+? At least 2 of the 3 ticket categories (order status, returns/refunds, stock availability) are fully resolvable end-to-end through the prototype without a human.
+? The go-live note accurately reflects what works and what doesn't — no undocumented gaps.
+? The audit log shows commit/edit activity traceable to board tasks for all 5 members.
