@@ -28,7 +28,7 @@ STEP 6 — FORMULA (Status Check)
 Node: Formulas
 Action: order_status = "Shipped"
 ↓
-STEP 7 — FORMULA (ETA Calculation)
+STEP 7 — FORMULA (ETA Calculation) 
 ─────────────────────────────────────────────
 Node: Formulas
 Action: eta = ToString(AddDays(Today(),2))
@@ -75,11 +75,12 @@ Message: "Order Status: @order_status
               Feel free to start a new request anytime."
     → END
 
-    PATH B — Order Not Found (Red/Pink line)
+    PATH B — Order Not Found (Red/Pink line) 
     ↓
     STEP 9B — MESSAGE (Error)
     ──────────────────────────────────
-    Node: Messages
+    Node: Messages  
     Message: "Something went wrong in the demo flow.
               Please return to the main menu."
     → RESTART to Welcome Menu
+ 
