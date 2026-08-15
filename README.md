@@ -3,7 +3,7 @@
 Team: Suzanne Wanjiru · Dennis Gitau · Dorcas Yego · Keith Ngugi · Timothy Kerre  
 Sprint Duration: 5 Days
 
-What We Built
+What We Built 
 
 A conversational support chatbot for Northstar Retail Co. that automatically handles the 3 most repetitive customer support ticket types — reducing manual agent workload by an estimated 75%.
 
