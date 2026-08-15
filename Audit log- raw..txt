@@ -1,0 +1,1228 @@
+[
+  {
+    "sha": "c5a923e5da8f27f039626a6cc6c47c83846d7b43",
+    "node_id": "C_kwDOT2pKj9oAKGM1YTkyM2U1ZGE4ZjI3ZjAzOTYyNmE2Y2M2YzQ3YzgzODQ2ZDdiNDM",
+    "commit": {
+      "author": {
+        "name": "Dorcas",
+        "email": "jeptumdorcas423@gmail.com",
+        "date": "2026-08-15T05:42:23Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-15T05:42:23Z"
+      },
+      "message": "test: add full path test log covering 15 paths across all 3 categories - validates bot handles happy paths, invalid inputs and edge cases before delivery #13",
+      "tree": {
+        "sha": "3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/c5a923e5da8f27f039626a6cc6c47c83846d7b43",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf/w/CRC1aQ7uu5UhlAAAMZIQAAsc0kIj/6q71eYKNomn2xhL\ndgfoYhn5g65aa93+zBqCA8T9WFhb6bVJY1M30dIh9QVW/Y7XyNlwJaxeLXwgn6zX\nq45CYKFRvzihvkOCzpUjTHaGF6bQllWtKYtzOLwlxv+DF2rDnkgEi8QBQbCIV0zR\nSR1vBR085yPdYl41jFvGSDItbWuoSpE+VgeB7kSECpm4lOpXlMaEi4VFjSPGBpRe\n8BUderrQbhlq5PPI1+rHmWAJn4sL4odN+TmOyvzR61WMFBCTApvaVXUHebfKH0uP\nEqo8JuIaHYLlUV3nc7kMUUB9k44wDnAN6EN3e4p/QmHXZJWAtvVLfYxQ8EBRCC0S\n6Sj/nn7CA0sC+1Xq6Z5xGkDEqD8Rt8MAukQc+rE6ZbwlUSFyypjRbxC4IxxOz0fn\nGEsO3QZfGbNOV3ExDno5B6XeBQ6SiShcABeTQzFDIssH1aLTZ188CBZCPIdXX3Hv\n9OtYm/Z4Rmjs9xqKM1Xc/AEoOwmFcC7lEceKSftYXJepRud1ZCP9lST9Z+cFBiBw\na8qVlfMJNaRLckb7Cv3B1ysCcONJW4HYOBF9yJTc55XkH9IlKfJWb6sEuHJrIgnS\nUAuJkzclTurccmAJV/eTorwepfZXayl9LKmOZAFjQviLCP8B+KPrLafdEs6PwfuC\nEujf3Tfj0QA7bEQ7tG0I\n=Ck/O\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c\nparent 73af16a566cdc666194124ddf576e6044845fac8\nauthor Dorcas <jeptumdorcas423@gmail.com> 1786772543 +0300\ncommitter GitHub <noreply@github.com> 1786772543 +0300\n\ntest: add full path test log covering 15 paths across all 3 categories - validates bot handles happy paths, invalid inputs and edge cases before delivery #13",
+        "verified_at": "2026-08-15T05:42:24Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/c5a923e5da8f27f039626a6cc6c47c83846d7b43",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/c5a923e5da8f27f039626a6cc6c47c83846d7b43",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/c5a923e5da8f27f039626a6cc6c47c83846d7b43/comments",
+    "author": {
+      "login": "jeptumdorcas423-code",
+      "id": 280133107,
+      "node_id": "U_kgDOELJ98w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280133107?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jeptumdorcas423-code",
+      "html_url": "https://github.com/jeptumdorcas423-code",
+      "followers_url": "https://api.github.com/users/jeptumdorcas423-code/followers",
+      "following_url": "https://api.github.com/users/jeptumdorcas423-code/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jeptumdorcas423-code/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jeptumdorcas423-code/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jeptumdorcas423-code/subscriptions",
+      "organizations_url": "https://api.github.com/users/jeptumdorcas423-code/orgs",
+      "repos_url": "https://api.github.com/users/jeptumdorcas423-code/repos",
+      "events_url": "https://api.github.com/users/jeptumdorcas423-code/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jeptumdorcas423-code/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "73af16a566cdc666194124ddf576e6044845fac8",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/73af16a566cdc666194124ddf576e6044845fac8",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/73af16a566cdc666194124ddf576e6044845fac8"
+      }
+    ]
+  },
+  {
+    "sha": "73af16a566cdc666194124ddf576e6044845fac8",
+    "node_id": "C_kwDOT2pKj9oAKDczYWYxNmE1NjZjZGM2NjYxOTQxMjRkZGY1NzZlNjA0NDg0NWZhYzg",
+    "commit": {
+      "author": {
+        "name": "kerre-star",
+        "email": "s60620012@gmail.com",
+        "date": "2026-08-15T03:40:10Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-15T03:40:10Z"
+      },
+      "message": "test: add full path test log covering 15 paths across all 3 categories - validates bot handles happy paths, invalid inputs and edge cases before delivery #13",
+      "tree": {
+        "sha": "3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/73af16a566cdc666194124ddf576e6044845fac8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf9+aCRC1aQ7uu5UhlAAAFsYQAGSidpM3tQpzAz3Pi9tKUFKJ\nnnMlsqqSY3RPiziGvuZEAl3zS5AcLVUXemY1xq1KN8V9X6EgopxNG+as0+QGyi7H\nPAoZaEGLlnt/jRHFe0lpfGafbDkHhYo7HD+N1b32xegHe1BeU/vE5N5ChCDmYRIG\nR64FnsgQYJ2FGMyYntxrupfmc3jxF6r5sOsi9j9Z4vQ6O+6gcjnuZzGK7QqnaRlx\nZQx6iavx/ii7fsk4b71mZ77FhlGCuQf+eKXInQuuoe8BFP4ubtzDOazMxTL6o5pX\nmZp1/CbEWJjsNrVQWtwK0XqHlhCRK31yU7rceZR2S+Mmo5KKlPr0EjFeDQcPpTnG\nKAcEumkxu/szxLygPdgYdePD0baoXOCHud6mu+PV2ykDNPnkmZI2K63WAdA7jGFp\nRU20IX/MVNrU56XAWN0RxGZTrRWdkzMDn8vyvPSGuovJvZNEqKUf3JlUwWbPV0CZ\nKmODQO2vWr7ywI4bkwh3zTRkGEajDvOi8BKaNj7HRWCvMraUMDXPqCKhMjm5lvNE\nIV+LfXPaJ0Agmn677AMC5LW2PWeIwDDiU2GDe53rsM5Nj7hLUDMKAaMvLNZvbiv7\nK8jRS2vSnwO5Cl8/+fLTMIyQG0nMHjxL/Eof3nZWrtAQ+VyhKcYTL5/3AVe4boWl\n5ukPczFYcIpnf5iVro43\n=NcnY\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3e207f8a1efdb4bdefe959f7c8ee1d9e37a24c3c\nparent e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88\nauthor kerre-star <s60620012@gmail.com> 1786765210 +0300\ncommitter GitHub <noreply@github.com> 1786765210 +0300\n\ntest: add full path test log covering 15 paths across all 3 categories - validates bot handles happy paths, invalid inputs and edge cases before delivery #13",
+        "verified_at": "2026-08-15T03:40:11Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/73af16a566cdc666194124ddf576e6044845fac8",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/73af16a566cdc666194124ddf576e6044845fac8",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/73af16a566cdc666194124ddf576e6044845fac8/comments",
+    "author": {
+      "login": "kerre-star",
+      "id": 267894385,
+      "node_id": "U_kgDOD_e-cQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267894385?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kerre-star",
+      "html_url": "https://github.com/kerre-star",
+      "followers_url": "https://api.github.com/users/kerre-star/followers",
+      "following_url": "https://api.github.com/users/kerre-star/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kerre-star/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kerre-star/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kerre-star/subscriptions",
+      "organizations_url": "https://api.github.com/users/kerre-star/orgs",
+      "repos_url": "https://api.github.com/users/kerre-star/repos",
+      "events_url": "https://api.github.com/users/kerre-star/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kerre-star/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88"
+      }
+    ]
+  },
+  {
+    "sha": "e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+    "node_id": "C_kwDOT2pKj9oAKGU2ZDY5YzQ0YzU1MDJiYTNhNWI1YTAwMTk0YmYxZDdkNmVmODVkODg",
+    "commit": {
+      "author": {
+        "name": "kerre-star",
+        "email": "s60620012@gmail.com",
+        "date": "2026-08-14T19:39:59Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T19:39:59Z"
+      },
+      "message": "\tdocs: create team charter with 5 members, roles and escalation path - establishes how the pod operates for the full sprint #1",
+      "tree": {
+        "sha": "2f439d30751b48348011b8a8d82d6b1f32cf945c",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/2f439d30751b48348011b8a8d82d6b1f32cf945c"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf28QCRC1aQ7uu5UhlAAAuYwQAEoCEzMqB/429ps8lHRR8ATX\nvsuqmQYl20+ns3ws2yd35B+s5Xo2dVcKZm8UNZ9oIZoB9+fMmaUT8qYPv3oraB2L\nB8LG4e46bebbGEVUc4SSc/8q016VjNpP4V2LESR3RmPcNSf+U1QiQgIqLH9Tl4xi\nlNko0tcHWsiODRDH3z9k3SDhoGnAjDwJB03FtwiC07bmghos88HL22NfG1ILbEP1\nxWKH/K5Adg0nC4EFjzT05hXhdfAcXo9/YiNnLZhdVmWZmD0512XMFHOxP7LoAUgV\nuZfg3HvHe9p1jX8CM1DgRvm7s6hkONLhRzfX79Qe30+nk7Dn7OueaUw+Ba3enh1y\n74yEggf6Bhegkne6qmF3+ZTbvEdavnvUWZyxIQ5KYGFJJwMx8qfQ1JWjADbklxwb\nUZQnGMHR0/SmAVzA91P8vKRD/6HLjxfa/LuOzLY73pzKv22qv3TN+20ijUu5rLnR\ny54hzBF4V3zrfBSoeC4eSugUVUv0HdghqAALzsgnjQjJULV1E7ZzXilpCBQPKeel\n45f/O3r9XMJHWQwi4NGxKMHGjwLb+IV0VlKWobOBZDa4tXtNbZ/rHMucIK+gj7Vu\n6m91e04QwJ2szX5rpuDLvQZZy1502J3T3hvjFVIFvZlE8EG6jHIkuDxmxUU9vEpg\npqh34lNxfPZKaAdtUASB\n=9fkm\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2f439d30751b48348011b8a8d82d6b1f32cf945c\nparent 84ee07a4b64b83b74358ce1f0919260b53c3ca74\nauthor kerre-star <s60620012@gmail.com> 1786736399 +0300\ncommitter GitHub <noreply@github.com> 1786736399 +0300\n\n\tdocs: create team charter with 5 members, roles and escalation path - establishes how the pod operates for the full sprint #1",
+        "verified_at": "2026-08-14T19:40:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/e6d69c44c5502ba3a5b5a00194bf1d7d6ef85d88/comments",
+    "author": {
+      "login": "kerre-star",
+      "id": 267894385,
+      "node_id": "U_kgDOD_e-cQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267894385?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kerre-star",
+      "html_url": "https://github.com/kerre-star",
+      "followers_url": "https://api.github.com/users/kerre-star/followers",
+      "following_url": "https://api.github.com/users/kerre-star/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kerre-star/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kerre-star/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kerre-star/subscriptions",
+      "organizations_url": "https://api.github.com/users/kerre-star/orgs",
+      "repos_url": "https://api.github.com/users/kerre-star/repos",
+      "events_url": "https://api.github.com/users/kerre-star/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kerre-star/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/84ee07a4b64b83b74358ce1f0919260b53c3ca74"
+      }
+    ]
+  },
+  {
+    "sha": "84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+    "node_id": "C_kwDOT2pKj9oAKDg0ZWUwN2E0YjY0YjgzYjc0MzU4Y2UxZjA5MTkyNjBiNTNjM2NhNzQ",
+    "commit": {
+      "author": {
+        "name": "Dorcas",
+        "email": "jeptumdorcas423@gmail.com",
+        "date": "2026-08-14T19:38:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T19:38:32Z"
+      },
+      "message": "feat: add decision tree flow diagram showing all 3 category branches with node-by-node breakdown - documents complete Landbot canvas for handover #9",
+      "tree": {
+        "sha": "64bb829d843bfb46ada29d52e68e04398aaf2f76",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/64bb829d843bfb46ada29d52e68e04398aaf2f76"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf264CRC1aQ7uu5UhlAAAjfoQAGRHQajaliSqMHAOh1ugVegG\n99rK/7oyOSgT7gJT2QdVQUWryKa5sw2OTA23RMyAjKDVIiVQyAz0FPA3Irk8/M24\nYHSm5DGiuYIdUR2dRkJFDhcQ3Z5vKZ/vqcp0scDjkLbhPUA+SNtis/iFS3IZOhLn\nSFdaaVobhaGhbNjVqFKNG1MsKXDdL36+/jWsdKx/ipzXab9aixH/WnxrmebaT6GE\nMMvWn6VY7wNda6V1L2TCdP3+NBFLPw1DciGIZegxqJnpwjOyk2z66EwjeaZCUi9d\nfr5U/yFCRH6oSphd2MUb/Vb6UhYv4hv8sreFevHfSjdAEDUjB+8yWl4LLN2VJRfl\nLwjBIZTGjtI8QKjic9yWNU/r9zw6KWUXKL40Nmti0qIJSMqfDlRNYddhCEC3OUDB\nK7f+Gxr/9HEoJPdjjHydiOLx77svroqZTASKNFzQlM7gaYJg0aO7Ay+BN4SgGkpw\niCba0tXMfJpjK19r3ehPGPXBB3hTV05n8eBz7njDh/0yy48qPWBrg43R+AGKzWcy\nVZ7CTCgdZcKgp1OAb3Uz9j9CDiVQantagH27Z150mONaIPKakbwlsYXiCW4Iv63t\nzYPY5ICds52MGymY2FYduiPUWLzM51AKldDoElJRxjmrgmzRbd6rNAujvgmsKXGP\nHRpxYea6mkXERkKTGg+u\n=8hWC\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 64bb829d843bfb46ada29d52e68e04398aaf2f76\nparent 061ce124eb399a25bab2a8de5289f16979b4a2fd\nauthor Dorcas <jeptumdorcas423@gmail.com> 1786736312 +0300\ncommitter GitHub <noreply@github.com> 1786736312 +0300\n\nfeat: add decision tree flow diagram showing all 3 category branches with node-by-node breakdown - documents complete Landbot canvas for handover #9",
+        "verified_at": "2026-08-14T19:38:33Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/84ee07a4b64b83b74358ce1f0919260b53c3ca74",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/84ee07a4b64b83b74358ce1f0919260b53c3ca74/comments",
+    "author": {
+      "login": "jeptumdorcas423-code",
+      "id": 280133107,
+      "node_id": "U_kgDOELJ98w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280133107?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jeptumdorcas423-code",
+      "html_url": "https://github.com/jeptumdorcas423-code",
+      "followers_url": "https://api.github.com/users/jeptumdorcas423-code/followers",
+      "following_url": "https://api.github.com/users/jeptumdorcas423-code/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jeptumdorcas423-code/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jeptumdorcas423-code/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jeptumdorcas423-code/subscriptions",
+      "organizations_url": "https://api.github.com/users/jeptumdorcas423-code/orgs",
+      "repos_url": "https://api.github.com/users/jeptumdorcas423-code/repos",
+      "events_url": "https://api.github.com/users/jeptumdorcas423-code/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jeptumdorcas423-code/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "061ce124eb399a25bab2a8de5289f16979b4a2fd",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/061ce124eb399a25bab2a8de5289f16979b4a2fd",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/061ce124eb399a25bab2a8de5289f16979b4a2fd"
+      }
+    ]
+  },
+  {
+    "sha": "061ce124eb399a25bab2a8de5289f16979b4a2fd",
+    "node_id": "C_kwDOT2pKj9oAKDA2MWNlMTI0ZWIzOTlhMjViYWIyYThkZTUyODlmMTY5NzliNGEyZmQ",
+    "commit": {
+      "author": {
+        "name": "dthanji",
+        "email": "55876299+dthanji@users.noreply.github.com",
+        "date": "2026-08-14T19:28:18Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T19:28:18Z"
+      },
+      "message": "docs: create team charter with 5 members, roles and escalation path - establishes how the pod operates for the full sprint #1",
+      "tree": {
+        "sha": "64bb829d843bfb46ada29d52e68e04398aaf2f76",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/64bb829d843bfb46ada29d52e68e04398aaf2f76"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/061ce124eb399a25bab2a8de5289f16979b4a2fd",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf2xSCRC1aQ7uu5UhlAAAgx4QAHfCLSeX2T/hmQdG0hNG6tVH\nWoxZ5VyDmc2Jx4HQ+B9XpiV0KfwT9sxKGw+C0hCwEWdBMzbshmROoIWBnEY+2Rxt\nKRgbmV2F+XCrt5e1qXQl0ucRYWvp+TnYd7nIkqbOGPkZzj9uzlLDONp+anVbbIdi\ndXepxXeZNvU7lZMMdmRTx+NdnLMlSS+SbnG8jItXipWKl6SbAPCFH77VbHkWrtyl\nkAbAAJJQZ4DIWq6dMjeq6vaHeMcE1GyTmlYr2DhHUH0XXFi4FiVIzAOYrhuYOADd\nDRxdnAHDedfVqA4d8BPEwGIifOv+sjxeX+I0JM3MsOPrUllpUNR/qzW4a6Gcm/xS\n0rbu09pYMzbeDoo36y1ZFpZ4CEMMfswQ1Io5r9t1om6tmI+Z10g6Px1sNuslEqqT\nj+bDfJo4RXzHcfkoHFalncqVpo30bq650J6NApXLADMug079PejlANl5ZizVeRjk\ndzDaPqQ4RK8P4LR+YVCwa0J0njiqrjP89AG8J8drTKn4i2kC2IxgUIDfN3qUe6CG\nZK0f4ah84c8NU9KJbL/fBiJTrOC3EmuGxQQFV/ad5HJ/iEl2ceH1ZBbp5W3N9Xol\nhyZrxkhisRL8dEnW+jW/90nB5AF+5WrFmvgBQl1uanxCKWXYQbmzpOaxEsX8itnc\nI7vC/YHGdz9kY4H3/2ON\n=53x0\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 64bb829d843bfb46ada29d52e68e04398aaf2f76\nparent ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40\nauthor dthanji <55876299+dthanji@users.noreply.github.com> 1786735698 +0300\ncommitter GitHub <noreply@github.com> 1786735698 +0300\n\ndocs: create team charter with 5 members, roles and escalation path - establishes how the pod operates for the full sprint #1",
+        "verified_at": "2026-08-14T19:28:19Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/061ce124eb399a25bab2a8de5289f16979b4a2fd",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/061ce124eb399a25bab2a8de5289f16979b4a2fd",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/061ce124eb399a25bab2a8de5289f16979b4a2fd/comments",
+    "author": {
+      "login": "dthanji",
+      "id": 55876299,
+      "node_id": "MDQ6VXNlcjU1ODc2Mjk5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55876299?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dthanji",
+      "html_url": "https://github.com/dthanji",
+      "followers_url": "https://api.github.com/users/dthanji/followers",
+      "following_url": "https://api.github.com/users/dthanji/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dthanji/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dthanji/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dthanji/subscriptions",
+      "organizations_url": "https://api.github.com/users/dthanji/orgs",
+      "repos_url": "https://api.github.com/users/dthanji/repos",
+      "events_url": "https://api.github.com/users/dthanji/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dthanji/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40"
+      }
+    ]
+  },
+  {
+    "sha": "ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+    "node_id": "C_kwDOT2pKj9oAKGNhNWFiMWY2YmZhYzNiZTgxZjljMzIyYzk2M2JkZmRmNzEzYjRiNDA",
+    "commit": {
+      "author": {
+        "name": "dthanji",
+        "email": "55876299+dthanji@users.noreply.github.com",
+        "date": "2026-08-14T18:51:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T18:51:44Z"
+      },
+      "message": "feat: add returns and refunds flow screenshot showing eligibility check and human escalation path - proves returns category is fully wired #11",
+      "tree": {
+        "sha": "e744087661a91d781dd70ea06369394a820e2a50",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/e744087661a91d781dd70ea06369394a820e2a50"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqf2PBCRC1aQ7uu5UhlAAAIywQAFKnSg3XE968YywSLug6COLx\ncEC011/ruzqgx37UwQLp2KCHPDL2rdHTkh07zC3DkbWMurtX9xXU7AksnaFo2ujW\n/tuS2CvEBY49cQMR7ATcDLTfIi9ZJsiNMVkGMW0+ELR3WqRlalEGN8hJ44Y0R/Fp\n6wEupGuKhqTRruPSuqKY/9WnT93pDkJ4Rp6f4Nzq/3vGJrgoZvpRxldBI24LhSNY\nNe5q3R4filDcvESXjCAWupV1KlsSDfbrhqzHTHBcU6+YnHtBZRPEjGwm/x8myLEa\nS+DlJgFZcT60gLNqK4FnxJsZvbDdD651fSCNPU9aWivBC9QpwhJ7ScRRIBf31a5a\nKB+zNASIdxy3acSwwmwnB8DAyWPEZny+PVVbGRwUrlXIFORPKBuwqxoGvMAmaIWO\nMl+QPSc3MKlyrKdWajMcna8wR63XfeanpHU9brqp/YDnITaDQLTKJDreheg0SvDK\n5HhH/vOU55Io+uqfad/A977EjVar5ScgR44HLdqpcPSW5J5jt+7Qhr/7+oe8vVj8\nzyKPZOTYcgZ5BEUC8ZkJxuPOaF2AF+54uHZVzwOOspmvlDA02eHcJ0yINhdTUFuA\nn+Grp0Y0mS+cDb95xZwyjmVlaFOjZ2D1RYgB76LTiU9Z3F7v+RXRnSqHn3stWpoz\nDLz+GjZWeUOqPn+Ht7Sg\n=9eJA\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e744087661a91d781dd70ea06369394a820e2a50\nparent cc427163d9c7798de3f6ea94d6598bb607ec83cc\nauthor dthanji <55876299+dthanji@users.noreply.github.com> 1786733504 +0300\ncommitter GitHub <noreply@github.com> 1786733504 +0300\n\nfeat: add returns and refunds flow screenshot showing eligibility check and human escalation path - proves returns category is fully wired #11",
+        "verified_at": "2026-08-14T18:51:45Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/ca5ab1f6bfac3be81f9c322c963bdfdf713b4b40/comments",
+    "author": {
+      "login": "dthanji",
+      "id": 55876299,
+      "node_id": "MDQ6VXNlcjU1ODc2Mjk5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55876299?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dthanji",
+      "html_url": "https://github.com/dthanji",
+      "followers_url": "https://api.github.com/users/dthanji/followers",
+      "following_url": "https://api.github.com/users/dthanji/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dthanji/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dthanji/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dthanji/subscriptions",
+      "organizations_url": "https://api.github.com/users/dthanji/orgs",
+      "repos_url": "https://api.github.com/users/dthanji/repos",
+      "events_url": "https://api.github.com/users/dthanji/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dthanji/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/cc427163d9c7798de3f6ea94d6598bb607ec83cc"
+      }
+    ]
+  },
+  {
+    "sha": "cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+    "node_id": "C_kwDOT2pKj9oAKGNjNDI3MTYzZDljNzc5OGRlM2Y2ZWE5NGQ2NTk4YmI2MDdlYzgzY2M",
+    "commit": {
+      "author": {
+        "name": "Dorcas",
+        "email": "jeptumdorcas423@gmail.com",
+        "date": "2026-08-14T11:39:49Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T11:39:49Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "2fb09e4390233bf75b7996c617ddf9fc3a2a4edb",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/2fb09e4390233bf75b7996c617ddf9fc3a2a4edb"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfv6FCRC1aQ7uu5UhlAAAdFcQAIJtW5csJCpg4x7V0887p1ok\n5JPFEXpFym4LMQ0KcYe/NV2R5+NfjzUrPwnfMdZKcjXey3hWHsUogT1MYz77a7y6\nNWB/K85xzRgDJ4UyXcJ8v5osrcCJd/YeMuQIzZP7kbsjM9bV8I53uhlwLDbeo7Nn\nFhPdNZpAeF8DLSIP7x6UEETrjmPkIr2pXzAgSIzey16VaMLdjEGTtItFjJ3s7rmZ\nsMCLq8+H+zfBQPpzHiC54YazVKFDlpgc4WrjuMpAEDhXKHbqu6FhxqClVOzqsvs2\nOOEfk6Juxw/EAHOrQDw9ZdM6Qz7MWLQkexEg+mHOTuzGDAau39XAogB0knVn/1OU\nPRbJy7HUTaXkXbecAOh50oQRFEOGcmqEFTL/APkSwOHUqc2Bh00WSvvOOhw0VCr5\n9OavGW4BugiVbvUgMvl0iMudHVTlZmbZ/qoQh1Cr6u3ZBDhSAPMYJe8Ua0wqaZIe\nw8qISAWkb2gi2fx+S8nqNlaQ6OwyH1kDpNFZ7HEvp/QIsPuw0CcWJQadp4f6jODa\nPl76pzgMOcAXYnitpCYuvk92ar6tybU+CIsOj5I2mjn3mdt1hqaxulB1QY8zHRxR\nbDgj1xLlLv55KFStw6ZoiWX09oCYsp1KeXhEQA0ZukwOJKvXxVlqTYFXAIcoeExA\nCOyVoBoG2GGFt0IkHTpV\n=8I+Q\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2fb09e4390233bf75b7996c617ddf9fc3a2a4edb\nparent d182fd7513130684e9a0925d3ba9daf2472722c0\nauthor Dorcas <jeptumdorcas423@gmail.com> 1786707589 +0300\ncommitter GitHub <noreply@github.com> 1786707589 +0300\n\nAdd files via upload",
+        "verified_at": "2026-08-14T11:41:12Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/cc427163d9c7798de3f6ea94d6598bb607ec83cc",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/cc427163d9c7798de3f6ea94d6598bb607ec83cc/comments",
+    "author": {
+      "login": "jeptumdorcas423-code",
+      "id": 280133107,
+      "node_id": "U_kgDOELJ98w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280133107?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jeptumdorcas423-code",
+      "html_url": "https://github.com/jeptumdorcas423-code",
+      "followers_url": "https://api.github.com/users/jeptumdorcas423-code/followers",
+      "following_url": "https://api.github.com/users/jeptumdorcas423-code/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jeptumdorcas423-code/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jeptumdorcas423-code/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jeptumdorcas423-code/subscriptions",
+      "organizations_url": "https://api.github.com/users/jeptumdorcas423-code/orgs",
+      "repos_url": "https://api.github.com/users/jeptumdorcas423-code/repos",
+      "events_url": "https://api.github.com/users/jeptumdorcas423-code/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jeptumdorcas423-code/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d182fd7513130684e9a0925d3ba9daf2472722c0",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/d182fd7513130684e9a0925d3ba9daf2472722c0",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/d182fd7513130684e9a0925d3ba9daf2472722c0"
+      }
+    ]
+  },
+  {
+    "sha": "d182fd7513130684e9a0925d3ba9daf2472722c0",
+    "node_id": "C_kwDOT2pKj9oAKGQxODJmZDc1MTMxMzA2ODRlOWEwOTI1ZDNiYTlkYWYyNDcyNzIyYzA",
+    "commit": {
+      "author": {
+        "name": "M329xrt",
+        "email": "mungere.28551@students.kyu.ac.ke",
+        "date": "2026-08-14T08:04:16Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T08:04:16Z"
+      },
+      "message": "Add files via upload\n\nfeat: add returns and refunds flow screenshot showing eligibility check and human escalation path - proves returns category is fully wired #11",
+      "tree": {
+        "sha": "470b2c07f4222a0d5cbefb41ad17db6bb16b17cf",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/470b2c07f4222a0d5cbefb41ad17db6bb16b17cf"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/d182fd7513130684e9a0925d3ba9daf2472722c0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfswBCRC1aQ7uu5UhlAAApRwQAIRRzKaTAiXA1gZ9EzmsWI6s\naRuoflBOelvYUySqCqifUFxbytF/x+cWMybmUNvEopx8DhW6oILKxFkGfiiax6tI\nJEv8Pf+iXDoZi1/Ues7hJoRH2bgR3TrMq+HpTV5nKKhPKs7bP2e2Ozm5SRkfDON/\n/yv6ynLqsd1Jz8WCOi3oD+gCp3gVV2yOHr6Y0Mqtp58zjnNhP7hNLECsks/O11tG\nknseSNTTSqU//1YjPyWDR771dFFG4Zusr3W1vXP2GA4u/ZyAcvhQuyYLbBT9Ztj5\nE99S4g113Hwj8lQDnGEOBzuEXM+C0K+HQbVVlbhE3pybbq0qDLfq71Ct0AKz4nz+\n8bYcjasO0KJaa5iF4iRvs7qHZm7wfCZ5lLMzffCg+70TIjighvxK2V1MklCE/+n7\n2F9XbTHXk2QkZmuGFZDB2M02pGb9MQSzPY2dnDf7cKAJ+Mk/ZmrpdSL05WILzvyA\nfA5VdmWYxq95Z8K4QvKPB6NZm6NbxvOvMCxOEX3gEzkRLHvps0zUKID1yslIVaBj\nI1qDQnFc+u3FUO17CB71Ji4etjZ83yEgkdnKQ86ISs031QOmnKf6eqzLtRVCGnbc\nJMWh4uYX1l+2H/EPnVFcsYyYfeDXC3ccoHqfeENG/a3oogbpxlVd9T6tP4hOei1A\n00QK9CAyo2skWqQ7tktU\n=oLVc\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 470b2c07f4222a0d5cbefb41ad17db6bb16b17cf\nparent 0088288bf2f7a839759fd9e23f5c8c1b08c1b6da\nauthor M329xrt <mungere.28551@students.kyu.ac.ke> 1786694656 +0300\ncommitter GitHub <noreply@github.com> 1786694656 +0300\n\nAdd files via upload\n\nfeat: add returns and refunds flow screenshot showing eligibility check and human escalation path - proves returns category is fully wired #11",
+        "verified_at": "2026-08-14T08:09:19Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/d182fd7513130684e9a0925d3ba9daf2472722c0",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/d182fd7513130684e9a0925d3ba9daf2472722c0",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/d182fd7513130684e9a0925d3ba9daf2472722c0/comments",
+    "author": {
+      "login": "M329xrt",
+      "id": 254413258,
+      "node_id": "U_kgDODyoJyg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254413258?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/M329xrt",
+      "html_url": "https://github.com/M329xrt",
+      "followers_url": "https://api.github.com/users/M329xrt/followers",
+      "following_url": "https://api.github.com/users/M329xrt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/M329xrt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/M329xrt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/M329xrt/subscriptions",
+      "organizations_url": "https://api.github.com/users/M329xrt/orgs",
+      "repos_url": "https://api.github.com/users/M329xrt/repos",
+      "events_url": "https://api.github.com/users/M329xrt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/M329xrt/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da"
+      }
+    ]
+  },
+  {
+    "sha": "0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+    "node_id": "C_kwDOT2pKj9oAKDAwODgyODhiZjJmN2E4Mzk3NTlmZDllMjNmNWM4YzFiMDhjMWI2ZGE",
+    "commit": {
+      "author": {
+        "name": "KEITH NGUGI",
+        "email": "k64ace@gmail.com",
+        "date": "2026-08-14T06:43:46Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-14T06:43:46Z"
+      },
+      "message": "feat: add order status flow screenshot - branch logic from order ID to resolution #10",
+      "tree": {
+        "sha": "e5fae303b0ac6ade78cb72ac0b55a6de78cc5948",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/e5fae303b0ac6ade78cb72ac0b55a6de78cc5948"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfrkiCRC1aQ7uu5UhlAAA258QAJ+b8t4wvTIYNa7/nEJ7XGlO\nUKAP4w38jd21tU18zWJh/Jkt06HSwgTKyohaqUo4SNkDpXwAVTwqoKGxlwXzsvvU\nzft1pcYhof6jM2m0ZuwXVTo30Y3Am3vjVSgIsYxraOmu/bmQlx2l2iBMhkvge/Ea\nWToSQIs+9YJam/Q+jz2V5Va7wLe+TJV1M6rBTMBEd+kbnWMOnpg+QROjiK2lXZaX\nH3YW0JsWo1iz9I/AkXWegaYI99sOghJWz2Z0ie/yFAiEAY8CalB8CHN/ojhVi4MB\nGjaG1LCmj7DIhQFXNSQlxXHfSY2e817qb+sFwyk7+rHtkN0K/ADcZM8BgoeETLtz\nuoPGUHdSUEnvvwdHXaW5sqH2gwtSsszlDnkA3DDO8twAnhBdOWkjEXD7VgRmFro/\n2j+Uy+wv7nCSvYBLwJ/K/rvzPGZ+hsb2qUGEgUnTknXKYTFZBFOqwWOq63UWk/Qa\nW6ftcba1LlShVJerJ8qePmNX8TjbZhyS/VwgtWnwS6P6MG3Fth+rNTGlZowOXR9d\nL9Fyudsc6AJY3FcmLYKbAVAtpR5hagnBTQC3O6A5pg+i0PCt1SgMiEbqKR74cQeN\n7DkoHFsyUncjCd6J0s/uK108izWC7q0n5aLEfHFz4FJnKyJukZ/PKq3Dras78m70\nYm+IUpRs2nY3Y5TOz6oR\n=nzLZ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e5fae303b0ac6ade78cb72ac0b55a6de78cc5948\nparent 48a8640df1cc2fc05ba24085dcbfb3d20fc4f431\nauthor KEITH NGUGI <k64ace@gmail.com> 1786689826 +0300\ncommitter GitHub <noreply@github.com> 1786689826 +0300\n\nfeat: add order status flow screenshot - branch logic from order ID to resolution #10",
+        "verified_at": "2026-08-14T06:45:59Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/0088288bf2f7a839759fd9e23f5c8c1b08c1b6da/comments",
+    "author": {
+      "login": "k64ace-a11y",
+      "id": 260618640,
+      "node_id": "U_kgDOD4i5kA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260618640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/k64ace-a11y",
+      "html_url": "https://github.com/k64ace-a11y",
+      "followers_url": "https://api.github.com/users/k64ace-a11y/followers",
+      "following_url": "https://api.github.com/users/k64ace-a11y/following{/other_user}",
+      "gists_url": "https://api.github.com/users/k64ace-a11y/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/k64ace-a11y/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/k64ace-a11y/subscriptions",
+      "organizations_url": "https://api.github.com/users/k64ace-a11y/orgs",
+      "repos_url": "https://api.github.com/users/k64ace-a11y/repos",
+      "events_url": "https://api.github.com/users/k64ace-a11y/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/k64ace-a11y/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431"
+      }
+    ]
+  },
+  {
+    "sha": "48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+    "node_id": "C_kwDOT2pKj9oAKDQ4YTg2NDBkZjFjYzJmYzA1YmEyNDA4NWRjYmZiM2QyMGZjNGY0MzE",
+    "commit": {
+      "author": {
+        "name": "KEITH NGUGI",
+        "email": "k64ace@gmail.com",
+        "date": "2026-08-13T18:56:16Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T18:56:16Z"
+      },
+      "message": "Refactor Ticket Taxonomy document formatting\n\nUpdated formatting and structure of the Ticket Taxonomy document for consistency and clarity.",
+      "tree": {
+        "sha": "67bad60fd621c75fa0b8d67547456b11b0e300d5",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/67bad60fd621c75fa0b8d67547456b11b0e300d5"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfhNQCRC1aQ7uu5UhlAAAY5IQAFmZV4foT8sg2UhiZPQPea7l\nlK4pXOt9VunG5ng+qn3Na8bb+e+pZzWI1ju3+7etnkGJUQMWqPVhLAMn2azX30r1\nLKi7hYvb+xAiXke9qZINIWqr3tXr5AOZNa/9M9OQvRDX4FPMCH1IwBr1mrNS6JsT\nsCQlJxerDMZjIILam4giUE4SJS58ybAipoicqfAls26wUINo3DwgSJgNHsYVKKUo\nboJu/ySWzV/UmuEw8Rr5SQPf8CoWoJYqKp5Hvk1qcdvE8USplw+W/vWamnskHIhV\nMVN1X43sF1KZzShb5Wug6iGrGOyQg/ZCXxR+UVS07xG3WEGrr/anT/y+QhEGh6Ve\n5aXEvhjn59oC/1ARvjtpiLkS2SsopFbI/IV56D6PeKjfsmKXZputkZ33J4UR2a/+\nzTx7DhjBx9HU3pP1J2po5VuiUFonJEGxx2ooyBiCXoIYWf19w379GKpc5KFKCtYd\nmu71v6Byuq/ic+znKs7rXdcJ7NzIBOfwssEWXo+dsdQiKPjS73CSuLhJyFmoRjvz\nUV7MfF8RokytXfn7hpzrmj7QHR2j9oikRAOCwg4EbZ2DbpAcr0yjq/B+98cnKaH6\n7V4PVGT/b4lp1+wnQKl278oD6FK4Ngp1Jl6UqI7dEKTjSH6zuO3+MvT129y73mvm\nzs/bUcykNmpFfO7rFvhh\n=FLAT\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 67bad60fd621c75fa0b8d67547456b11b0e300d5\nparent 05ec6adbadb4dadf894a74d42d8d0ba65d866672\nauthor KEITH NGUGI <k64ace@gmail.com> 1786647376 +0300\ncommitter GitHub <noreply@github.com> 1786647376 +0300\n\nRefactor Ticket Taxonomy document formatting\n\nUpdated formatting and structure of the Ticket Taxonomy document for consistency and clarity.",
+        "verified_at": "2026-08-13T18:57:54Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/48a8640df1cc2fc05ba24085dcbfb3d20fc4f431/comments",
+    "author": {
+      "login": "k64ace-a11y",
+      "id": 260618640,
+      "node_id": "U_kgDOD4i5kA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260618640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/k64ace-a11y",
+      "html_url": "https://github.com/k64ace-a11y",
+      "followers_url": "https://api.github.com/users/k64ace-a11y/followers",
+      "following_url": "https://api.github.com/users/k64ace-a11y/following{/other_user}",
+      "gists_url": "https://api.github.com/users/k64ace-a11y/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/k64ace-a11y/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/k64ace-a11y/subscriptions",
+      "organizations_url": "https://api.github.com/users/k64ace-a11y/orgs",
+      "repos_url": "https://api.github.com/users/k64ace-a11y/repos",
+      "events_url": "https://api.github.com/users/k64ace-a11y/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/k64ace-a11y/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/05ec6adbadb4dadf894a74d42d8d0ba65d866672"
+      }
+    ]
+  },
+  {
+    "sha": "05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+    "node_id": "C_kwDOT2pKj9oAKDA1ZWM2YWRiYWRiNGRhZGY4OTRhNzRkNDJkOGQwYmE2NWQ4NjY2NzI",
+    "commit": {
+      "author": {
+        "name": "KEITH NGUGI",
+        "email": "k64ace@gmail.com",
+        "date": "2026-08-13T18:45:50Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T18:45:50Z"
+      },
+      "message": "docs: add ticket taxonomy mapping 8+ customer phrasings per category - ensures bot covers real language customers use not assumed language #4",
+      "tree": {
+        "sha": "2bfee5b46d5ecc403e57e20dac961585714f7cf1",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/2bfee5b46d5ecc403e57e20dac961585714f7cf1"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfhDeCRC1aQ7uu5UhlAAAICQQAIbkcIJ2KzbKmTCMivdP7zgr\nbF1eF2Al53pGPdGbDhBuPOkd8oVnjqM5jKCUeTiyyLiQUyS7CvQDFOXk3PITbPt1\nGu0bDu/wtArc6tcu83uOOcKGUq2B0N2gRuoQWLF+QmsoPBJ4AX/PL73kE69XdhUc\nhzZUrutmGY1gCTv29PvRt7CYrljSESQ5Aiyx0aa1PpRU83SxG+2n/LLoTMQz/6Z/\nDtkewmPi1fpvkwX/wqeKumkatQ5oWZHBktyupPKFn6hN/9/XnLsfzFNlh9iwJAwq\njO3eFIymKP1FtedPb0vK0rQ+kDrRV9I88SoDujOfanx+MBImedzj9LWdFJPANnb2\nayV4uDu5s7E6yLFfYKKzPoK4aO2aSVPOpDVtJu5Y2zmsS7Sn2tiV5/L4UykhCceh\nd9UGeZFbXkcBgqbLmSquf/YvlCcfYryylYoj+8cWNWVAIFntLVJ7xEE18ZOg5HMM\ns9V+3DHG3L5rIslvQdPlipzxw0PKtoHB48WAoE29/qFh5APfGWBp4+6+u666QS4P\nvNU4VK2lKOXYh5zLsq2j9tQmbaWRHeDYPdXZzh0CqqUqi5pQBflN3uJ/+BTPx0Kp\nnR/aGE84gg7usaowkiq0V23CjVpM/jspxTZJgFxvcVuWdUJjd3Cs8aTr86xlptnM\ncKFYms+fEjefbh/lVJGl\n=hunw\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2bfee5b46d5ecc403e57e20dac961585714f7cf1\nparent 8f40b4f034f5213d802791759edf12bd091c1029\nauthor KEITH NGUGI <k64ace@gmail.com> 1786646750 +0300\ncommitter GitHub <noreply@github.com> 1786646750 +0300\n\ndocs: add ticket taxonomy mapping 8+ customer phrasings per category - ensures bot covers real language customers use not assumed language #4",
+        "verified_at": "2026-08-13T18:46:08Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/05ec6adbadb4dadf894a74d42d8d0ba65d866672",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/05ec6adbadb4dadf894a74d42d8d0ba65d866672/comments",
+    "author": {
+      "login": "k64ace-a11y",
+      "id": 260618640,
+      "node_id": "U_kgDOD4i5kA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260618640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/k64ace-a11y",
+      "html_url": "https://github.com/k64ace-a11y",
+      "followers_url": "https://api.github.com/users/k64ace-a11y/followers",
+      "following_url": "https://api.github.com/users/k64ace-a11y/following{/other_user}",
+      "gists_url": "https://api.github.com/users/k64ace-a11y/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/k64ace-a11y/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/k64ace-a11y/subscriptions",
+      "organizations_url": "https://api.github.com/users/k64ace-a11y/orgs",
+      "repos_url": "https://api.github.com/users/k64ace-a11y/repos",
+      "events_url": "https://api.github.com/users/k64ace-a11y/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/k64ace-a11y/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8f40b4f034f5213d802791759edf12bd091c1029",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/8f40b4f034f5213d802791759edf12bd091c1029",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/8f40b4f034f5213d802791759edf12bd091c1029"
+      }
+    ]
+  },
+  {
+    "sha": "8f40b4f034f5213d802791759edf12bd091c1029",
+    "node_id": "C_kwDOT2pKj9oAKDhmNDBiNGYwMzRmNTIxM2Q4MDI3OTE3NTllZGYxMmJkMDkxYzEwMjk",
+    "commit": {
+      "author": {
+        "name": "KEITH NGUGI",
+        "email": "k64ace@gmail.com",
+        "date": "2026-08-13T18:27:26Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T18:27:26Z"
+      },
+      "message": "docs: add project README with scope, bot capabilities and repo structure - gives Northstar team a clear entry point into the delivery package #2",
+      "tree": {
+        "sha": "2ab1521353047fe1deb8e4cf1e77aa5242a76277",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/2ab1521353047fe1deb8e4cf1e77aa5242a76277"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/8f40b4f034f5213d802791759edf12bd091c1029",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfgyOCRC1aQ7uu5UhlAAA0PgQAG3DWz/fyXYnCoZPXaiZ2ccj\nbuErHPvPl4vrM207KFJEa4gg3ftTPdA6BM+4FYInY47FVFjquafVpWC5ooyDSGyC\nDRzUqzY+GkFsxn6WfVs6lG3zR7yZLue3/4HK+gF1nllvHHdGRmfdRqRqPKOpOves\n3mt5CFrVEZkVk+xRGgbWdyPBGy9tyRuFfQhWzaM3h5oT2CYAmy1/12C6m5BBst/Y\nX7kCrsUy+la5bc/Uu1XqJ1OZvqUjyIyqxSmeFQC6S4ZoUG1AICQS5Tg98UuRlI8q\njII1QoAFn7l8+GA17JbtLHXaptuXAXHMbXoee9JRzcy+R/QtURZQYCCfCAiXfb2S\nK3WgQUW4GK3QX6e/Y+ow2f25Y3UkwGICZPMIeMsyaMkdL1ppnpXI4jgBfEo9GgOJ\nPgbVJqUSLLSLQy82biMQ4wxCKqcblzxsa+Lxzb+oEclWGDDiJ7vIOjGN5GAze5Kd\n7zLGdA6ZHsdo32A7qAW1P0dcib69ZAOGXsF2LThhFqyHMM1tgiZVYSLW/sAWXVHx\nsfTcer2ZjtJ6gnyE/fmnNrS6anPk0+ee0xrKe6LhXedDYzqHZbqCRWrDbXf74PCL\nUcr4KlIFs9qGT21+3mw4TJysHOM6aH1CoXwf1aFQOG04HfeF8TUqQN3e6nOnOBJR\ng6b81qTLxKUrBg7FGZPx\n=cvsX\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2ab1521353047fe1deb8e4cf1e77aa5242a76277\nparent 5a6312e24696a5d8e02834289b61681661da66bf\nauthor KEITH NGUGI <k64ace@gmail.com> 1786645646 +0300\ncommitter GitHub <noreply@github.com> 1786645646 +0300\n\ndocs: add project README with scope, bot capabilities and repo structure - gives Northstar team a clear entry point into the delivery package #2",
+        "verified_at": "2026-08-13T18:32:29Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/8f40b4f034f5213d802791759edf12bd091c1029",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/8f40b4f034f5213d802791759edf12bd091c1029",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/8f40b4f034f5213d802791759edf12bd091c1029/comments",
+    "author": {
+      "login": "k64ace-a11y",
+      "id": 260618640,
+      "node_id": "U_kgDOD4i5kA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260618640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/k64ace-a11y",
+      "html_url": "https://github.com/k64ace-a11y",
+      "followers_url": "https://api.github.com/users/k64ace-a11y/followers",
+      "following_url": "https://api.github.com/users/k64ace-a11y/following{/other_user}",
+      "gists_url": "https://api.github.com/users/k64ace-a11y/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/k64ace-a11y/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/k64ace-a11y/subscriptions",
+      "organizations_url": "https://api.github.com/users/k64ace-a11y/orgs",
+      "repos_url": "https://api.github.com/users/k64ace-a11y/repos",
+      "events_url": "https://api.github.com/users/k64ace-a11y/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/k64ace-a11y/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5a6312e24696a5d8e02834289b61681661da66bf",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/5a6312e24696a5d8e02834289b61681661da66bf",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/5a6312e24696a5d8e02834289b61681661da66bf"
+      }
+    ]
+  },
+  {
+    "sha": "5a6312e24696a5d8e02834289b61681661da66bf",
+    "node_id": "C_kwDOT2pKj9oAKDVhNjMxMmUyNDY5NmE1ZDhlMDI4MzQyODliNjE2ODE2NjFkYTY2YmY",
+    "commit": {
+      "author": {
+        "name": "KEITH NGUGI",
+        "email": "k64ace@gmail.com",
+        "date": "2026-08-13T18:24:31Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T18:24:31Z"
+      },
+      "message": "Revise README with project overview and structure\n\nUpdated README.md to include project details and structure.",
+      "tree": {
+        "sha": "a5c4cae60f1bfcfe0b79ff6506a3b033f3265736",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/a5c4cae60f1bfcfe0b79ff6506a3b033f3265736"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/5a6312e24696a5d8e02834289b61681661da66bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfgvfCRC1aQ7uu5UhlAAATUcQAEbJk/fPksLy/qCGkmBhIHq2\nnm+FPbvHq3ykiA2wqBcTyLODeExj36fUDFodBWiTW/9iddlLk7zVta1d//uqKaNK\ngJ79YivBeHEZZb+xDairGoA1ieJxaB5+nNp+vBYAO/bVBe/uzRaWCH8o2dBzSOwz\nIhwAh6aP20Q+rVrHxjeBNZ1/Q86QwDDnM6jE95simgo0ntsTmPe4dQ+FDCNM1OpO\nO6DEMjdIrFE3w8q/2qVSgId+UFbSDN5V/z8W35cx5uWVn8HmtNYhcrXOp9GL7uaC\nafvjxDMu7aP4MyHCis3H7NRK4lPMUqTQDPCJ5fT6qukm47ix1ZcTus5QzgSeME8C\n0fbyvMdwdinHshTC4j9zmwzRVPBNkUqQGQxzM8t3Ltp+cq2OJf4igaRbBRSLDKid\n34GjKRwPI4tbbfmxvQSItFT4cZx7WHaBH/q5KUFq9Zxe2dpjqo5+Sy4LEwmAiH01\nRo8OC691ts9sOjOu6Bx+vMAA38zFTXQj8/srrJUG8bfIDgkRS6LeHIwxeYu6aQMs\nhIMJAaXucuMaGhyomJcYXQZITWigIvbfyBvxAgqnItnpuuy13uxKdsSgaa5od/ZM\n21JXZDObHaNBOOrtQUvmGy4ZywV0ObMELoRh68QaBD8J03pmNRQ0psHns1XBcRhC\nzQmcmfFz3wDNVVxlajEf\n=2aKl\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a5c4cae60f1bfcfe0b79ff6506a3b033f3265736\nparent f3dc1e6eeb84e975850f0a416951951368971f59\nauthor KEITH NGUGI <k64ace@gmail.com> 1786645471 +0300\ncommitter GitHub <noreply@github.com> 1786645471 +0300\n\nRevise README with project overview and structure\n\nUpdated README.md to include project details and structure.",
+        "verified_at": "2026-08-13T18:25:01Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/5a6312e24696a5d8e02834289b61681661da66bf",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/5a6312e24696a5d8e02834289b61681661da66bf",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/5a6312e24696a5d8e02834289b61681661da66bf/comments",
+    "author": {
+      "login": "k64ace-a11y",
+      "id": 260618640,
+      "node_id": "U_kgDOD4i5kA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260618640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/k64ace-a11y",
+      "html_url": "https://github.com/k64ace-a11y",
+      "followers_url": "https://api.github.com/users/k64ace-a11y/followers",
+      "following_url": "https://api.github.com/users/k64ace-a11y/following{/other_user}",
+      "gists_url": "https://api.github.com/users/k64ace-a11y/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/k64ace-a11y/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/k64ace-a11y/subscriptions",
+      "organizations_url": "https://api.github.com/users/k64ace-a11y/orgs",
+      "repos_url": "https://api.github.com/users/k64ace-a11y/repos",
+      "events_url": "https://api.github.com/users/k64ace-a11y/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/k64ace-a11y/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f3dc1e6eeb84e975850f0a416951951368971f59",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/f3dc1e6eeb84e975850f0a416951951368971f59",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/f3dc1e6eeb84e975850f0a416951951368971f59"
+      }
+    ]
+  },
+  {
+    "sha": "f3dc1e6eeb84e975850f0a416951951368971f59",
+    "node_id": "C_kwDOT2pKj9oAKGYzZGMxZTZlZWI4NGU5NzU4NTBmMGE0MTY5NTE5NTEzNjg5NzFmNTk",
+    "commit": {
+      "author": {
+        "name": "kerre-star",
+        "email": "s60620012@gmail.com",
+        "date": "2026-08-13T13:52:14Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T13:52:14Z"
+      },
+      "message": "docs: create team charter with roles, escalation path and ways of working - defines how the pod operates for the full sprint #1",
+      "tree": {
+        "sha": "e2b1810148308c32bc5f6ad451cc10beaa3c78d6",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/e2b1810148308c32bc5f6ad451cc10beaa3c78d6"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/f3dc1e6eeb84e975850f0a416951951368971f59",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfcwPCRC1aQ7uu5UhlAAAu6wQAJJiC90FKs5OlOXKAtNbVHPU\n1KDi1rfQ7D4W6goNg6tAsnOPO255piyc8Jri0VpqpyaVItCdqdkPTx8XnKfEm6ne\noL5XWzWqqGO3UoJdPi+lOU0v2cXVRMe09FoKruUvEOrGDjmE1jTs5f5gwK5ephNC\ne0r8rZChnhHNzhRIQoqp/0SxJcEQ7/5KOLyxf14m9fkNzdCKzKNpfu09kFjwVhQT\nGVEUHAmkfr2pe+bfMxSvM7rLMqLa0MkdeFCCCRn1VQhUchW9ReuYI7+w/WxMVSOP\nV1YtGBQR8q8uzfn+rNEOeHcMdEo8YLM1fcG3i+QTGoE9oJRCFQNv+R/3s0P8Ay+8\n11RQoFiNGYiCMK4bEYE83r79Vkpl9/RCszNIbK6f0+OLTunyz1N4ntBDdWgoI3K3\nQtsYarLSngQm3f2AdRw8zipSSV110cYHHly0AMgh6d9bJuygqImeJW7dbNb8sN/L\nsZ8StdWNmqQ82GrhjVZv/aeMdpfhzBXaQS6VQCu8JjkMTImqbLqkaslU9FM6Wnba\nbXMAISYEi+DendCiFRpLPQ4YkpG95kS/VesgzEOlndnuN7P0qK1AcgfWqhIOWRWF\nsSQ0F7gCeQ5A5pTvcyqe6AORKiUJS++oY1Dgm/XSBA1X+TX5H04gpVc+MKPm86Fh\nt5OPrzWuDFaU26Z25wZu\n=yL0e\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e2b1810148308c32bc5f6ad451cc10beaa3c78d6\nparent b85f1166fdd4f3413200d8b9cecba8ce5e02218f\nauthor kerre-star <s60620012@gmail.com> 1786629134 +0300\ncommitter GitHub <noreply@github.com> 1786629134 +0300\n\ndocs: create team charter with roles, escalation path and ways of working - defines how the pod operates for the full sprint #1",
+        "verified_at": "2026-08-13T18:00:08Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/f3dc1e6eeb84e975850f0a416951951368971f59",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/f3dc1e6eeb84e975850f0a416951951368971f59",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/f3dc1e6eeb84e975850f0a416951951368971f59/comments",
+    "author": {
+      "login": "kerre-star",
+      "id": 267894385,
+      "node_id": "U_kgDOD_e-cQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267894385?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kerre-star",
+      "html_url": "https://github.com/kerre-star",
+      "followers_url": "https://api.github.com/users/kerre-star/followers",
+      "following_url": "https://api.github.com/users/kerre-star/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kerre-star/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kerre-star/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kerre-star/subscriptions",
+      "organizations_url": "https://api.github.com/users/kerre-star/orgs",
+      "repos_url": "https://api.github.com/users/kerre-star/repos",
+      "events_url": "https://api.github.com/users/kerre-star/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kerre-star/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+        "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/b85f1166fdd4f3413200d8b9cecba8ce5e02218f"
+      }
+    ]
+  },
+  {
+    "sha": "b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+    "node_id": "C_kwDOT2pKj9oAKGI4NWYxMTY2ZmRkNGYzNDEzMjAwZDhiOWNlY2JhOGNlNWUwMjIxOGY",
+    "commit": {
+      "author": {
+        "name": "kerre-star",
+        "email": "s60620012@gmail.com",
+        "date": "2026-08-13T11:58:58Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-13T11:58:58Z"
+      },
+      "message": "docs: add README - defines project scope and repository structure #2",
+      "tree": {
+        "sha": "ed37a4f9456641df4a0a57b2f36f755f975f3687",
+        "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/trees/ed37a4f9456641df4a0a57b2f36f755f975f3687"
+      },
+      "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/git/commits/b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqfbGCCRC1aQ7uu5UhlAAA/4UQAI+wBA1d4hzTBlkQ7ssDiq8w\nrp5PacsGFFvh4TFZe7DPPEZi0XgPJJy5ZD3r8WJ3rxWUo36Qeaqjb9WSXlrR6cg0\n+fa0jYtokxYnGDj2i00qFuljd7U7CKxeuO8LzrPrDm8qsaEI4swHVSFuxj/sd3B2\nVk6L1Z7yj2aQ2GFeGsoHzG49QzmyLEQvRgFpbcdpMm/Y6hzRV4pydg2iUDA+oR2L\ng7TCFMsmYTyWKS/bFSxwE2NfFwtB0fX7queB59GJ+m2y1fVmhrAPt3i40n89zrgK\nz45MYi8LkOOUfcwtqD5O6ypBuVEYKWqekm1O88cXzcF4BuUkYsEvxKXmXNKLUAca\nWXUgpxF47CG81SHl7lyK7bLMR4fxlEWlWOOSeWMGThzzPXCALmLY0X2HOqhlAcy5\nu+TY64pRaqK1WoPYYQqVt9y4WJ4KyumKdKpZompOAEmQmsLdvqsEOwDT/LkYNCE/\n2Jltj2Hk/tRW6VxDHu4yQWAdqJiShUDh3+qMWoZgUZm1aTi+FH6kB4CKe/swr77L\nwplatWatB73hjAmw/Hs9yICuVSkIWiMkHGwnHj0tOe70VrEMvREdErHNxwDyH7vb\nzpNWkrWV+GS2EWS0pimRBDkvew1qahwK1VRRv+WJfZI8X8cf8wigZyhB72v57CoU\nXXpzHP2rXeKyXrFOIsYP\n=hOR/\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ed37a4f9456641df4a0a57b2f36f755f975f3687\nauthor kerre-star <s60620012@gmail.com> 1786622338 +0300\ncommitter GitHub <noreply@github.com> 1786622338 +0300\n\ndocs: add README - defines project scope and repository structure #2",
+        "verified_at": "2026-08-13T12:04:01Z"
+      }
+    },
+    "url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+    "html_url": "https://github.com/kerre-star/NORTHSTAR-SPINT-BOARD/commit/b85f1166fdd4f3413200d8b9cecba8ce5e02218f",
+    "comments_url": "https://api.github.com/repos/kerre-star/NORTHSTAR-SPINT-BOARD/commits/b85f1166fdd4f3413200d8b9cecba8ce5e02218f/comments",
+    "author": {
+      "login": "kerre-star",
+      "id": 267894385,
+      "node_id": "U_kgDOD_e-cQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267894385?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kerre-star",
+      "html_url": "https://github.com/kerre-star",
+      "followers_url": "https://api.github.com/users/kerre-star/followers",
+      "following_url": "https://api.github.com/users/kerre-star/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kerre-star/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kerre-star/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kerre-star/subscriptions",
+      "organizations_url": "https://api.github.com/users/kerre-star/orgs",
+      "repos_url": "https://api.github.com/users/kerre-star/repos",
+      "events_url": "https://api.github.com/users/kerre-star/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kerre-star/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
