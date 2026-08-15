@@ -1,0 +1,85 @@
+STEP 1 — ASK A QUESTION
+─────────────────────────────────────────────
+Node: Ask a Question
+Message: "What is your order number?"
+↓
+STEP 2 — FORMULA
+─────────────────────────────────────────────
+Node: Formulas
+Action: ticket_outcome = "order_status_demo"
+↓
+STEP 3 — MESSAGE
+─────────────────────────────────────────────
+Node: Messages
+Message: "Let's help you track your order."
+↓
+STEP 4 — ASK FOR EMAIL
+─────────────────────────────────────────────
+Node: Ask for an Email
+Message: "Please enter the email used for this order."
+↓
+STEP 5 — SET A FIELD
+─────────────────────────────────────────────
+Node: Set a Field
+Action: eta = 2024-06-22 (estimated delivery date)
+↓
+STEP 6 — FORMULA (Status Check)
+─────────────────────────────────────────────
+Node: Formulas
+Action: order_status = "Shipped"
+↓
+STEP 7 — FORMULA (ETA Calculation)
+─────────────────────────────────────────────
+Node: Formulas
+Action: eta = ToString(AddDays(Today(),2))
+↓
+STEP 8 — MESSAGE (Status Result)
+─────────────────────────────────────────────
+Node: Messages
+Message: "Order Status: @order_status
+          Estimated Delivery: @eta"
+
+    PATH A — Order Found (Teal line)
+    ↓
+    STEP 9A — FORMULA
+    ──────────────────────────────────
+    Node: Formulas
+    Action: ticket_outcome = "order_status_resolved"
+    ↓
+    STEP 10A — FORMULA (Timestamp)
+    ──────────────────────────────────
+    Node: Formulas
+    Action: ticket_timestamp = ToString(Now())
+    ↓
+    STEP 11A — ZAPIER
+    ──────────────────────────────────
+    Node: Zapier — Integrate with Zapier
+    Action: Logs resolved ticket to support system
+    ↓
+    STEP 12A — CSAT RATING
+    ──────────────────────────────────
+    Node: Buttons
+    Message: "How would you rate your support
+              experience today? (1=Poor, 5=Great)"
+    Options: 1 | 2 | 3 | 4 | 5 | Any of the above
+    ↓
+    STEP 13A — ZAPIER (per rating)
+    ──────────────────────────────────
+    Node: Zapier — Integrate with Zapier
+    Action: Logs CSAT score
+    ↓
+    STEP 14A — MESSAGE (Thank You)
+    ──────────────────────────────────
+    Node: Messages
+    Message: "Thank you for your feedback!
+              Feel free to start a new request anytime."
+    → END
+
+    PATH B — Order Not Found (Red/Pink line)
+    ↓
+    STEP 9B — MESSAGE (Error)
+    ──────────────────────────────────
+    Node: Messages
+    Message: "Something went wrong in the demo flow.
+              Please return to the main menu."
+    → RESTART to Welcome Menu
