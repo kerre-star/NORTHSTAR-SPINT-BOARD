@@ -1,0 +1,19 @@
+ID	Task	Owner	Priority	Est. Hours	Definition of Done	Status
+01	Draft & circulate Team Charter	Suzanne Wanjiru	P0	1.5	Charter document exists with all 5 sections signed off by every member in-channel	Done
+02	Set up board with 10+ tasks, owners, priorities, DoD	Suzanne Wanjiru	P0	1	Board published with every task carrying an owner, priority, and single-sentence DoD	Done
+03	Day 1 solo baseline diagnostic (individual, no collaboration)	All 5 (individual)	P0	0.5	Each member has submitted their own baseline file with no peer input	Done
+04	Define ticket taxonomy: which questions map to which of the 3 categories	Keith Ngugi	P0	2	A written taxonomy doc lists ≥ 8 real customer phrasings per category, sourced from support-team pattern (mocked)	Done
+05	Build mock order-status dataset (orders, carriers, statuses)	Dennis Gitau	P0	3	mock-orders.json has ≥ 12 orders covering shipped/processing/delayed/delivered states, each with a valid order ID + zip pair	Done
+06	Build mock returns/refund policy + return-eligibility dataset	Dennis Gitau	P0	2.5	mock-returns-policy.json covers window rules, non-returnable categories, and refund timing, keyed to the mock order data	Done
+07	Build mock stock-availability dataset	Dennis Gitau	P1	2	mock-inventory.json covers ≥ 10 SKUs with size/color variants and per-store + online stock counts	Done
+08	Design decision-tree flow diagram for all 3 categories (branch logic)	Dorcas Yego	P0	3	A branching flow (question → sub-question → resolution) exists for all 3 categories before any UI is built	Done
+09	Build decision-tree UI shell (layout, typography, color system)	Dorcas Yego	P0	4	Static shell renders the entry screen + 3 category cards in the chosen visual system, responsive to mobile width	Done
+10	Wire order-status branch logic into UI	Dennis Gitau + Dorcas Yego	P0	3.5	Entering a valid order ID + zip returns correct mock status; invalid input shows a clear next step	Done
+11	Wire returns/refund branch logic into UI	Dennis Gitau + Dorcas Yego	P0	3.5	User can reach an eligibility answer (yes/no + reason) and, if eligible, a return-initiation confirmation screen	Done
+12	Wire stock-availability branch logic into UI	Dennis Gitau + Dorcas Yego	P1	3	User can check a SKU + size/color and get an in-stock/out-of-stock answer with nearest alternative if out of stock	Done
+13	Full path testing across all 3 categories + edge cases	Timothy Kerre	P0	3	Test log covers ≥ 15 test paths (happy + invalid input + edge case) with pass/fail noted per path	Done
+14	Accessibility + mobile pass on prototype	Dorcas Yego	P2	2	Keyboard navigation works end-to-end; tap targets and contrast checked at 375px width	Done
+15	Mid-sprint audit pull: commit + board timestamp log	Suzanne Wanjiru	P0	1	Raw commit log and board status log exported and checked for 0-activity gaps ≥ 2 days	Done
+16	Draft go-live readiness note	Timothy Kerre + Suzanne Wanjiru	P0	2	1-page note lists what works, what's known-broken, and what Northstar's team needs to operate it without the pod	Done
+17	Final audit log export + repo packaging	Suzanne Wanjiru	P0	1.5	Final commit history, board log, and file tree assembled into the delivery package	Done
+18	Peer Reliability Index submission (confidential, individual)	All 5 (individual)	P0	0.5	Each member has submitted their 5-question peer index privately; none shared verbatim	Done
