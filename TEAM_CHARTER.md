@@ -48,6 +48,7 @@ All commits and edits follow this format:
 - `feat: add order-status branch logic - enables users to track orders by ID`
 - `fix: correct return eligibility condition - was approving non-returnable items`
 - `docs: draft go-live readiness note - required for Day 5 delivery`
+- docs: add commit convention and board update rules to team charter - ensures all members follow non-negotiable sprint rules before build begins #2
 
 ❌ `wip`, `updates`, `changes` are NOT acceptable commit messages.
 
